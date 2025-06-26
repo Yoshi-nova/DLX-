@@ -1,0 +1,21 @@
+{
+  "name": "dlxplus-site",
+  "version": "1.0.0",
+  "description": "Site web officiel de DLX+, gestionnaire de téléchargement gratuit pour Windows.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "vite",
+    "build": "vite build"
+  },
+  "author": "DLX+ Team",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "devDependencies": {
+    "vite": "^5.0.0"
+  }
+}
